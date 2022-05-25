@@ -12,3 +12,10 @@ export AWS_SESSION_TOKEN="DesenrolaBateEJogaDeLadinhoSeuHackudoDosInfernossssss#
 aws_access_key_id=ASIATRXVMINHAPICAIES
 aws_secret_access_key=DesenrolaBateEJogaDeLadinho
 aws_session_token=DesenrolaBateEJogaDeLadinhoSeuHackudoDosInfernossssss#443343434343434
+
+
+
+
+AWS_ACCESS_KEY_ID="ASIATRXVMINHAPICAIES"
+AWS_SECRET_ACCESS_KEY="DesenrolaBateEJogaDeLadinho"
+AWS_SESSION_TOKEN="DesenrolaBateEJogaDeLadinhoSeuHackudoDosInfernossssss#443343434343434"
