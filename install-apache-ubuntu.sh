@@ -21,3 +21,8 @@ AWS_SECRET_ACCESS_KEY="DesenrolaBateEJogaDeLadinho"
 AWS_SESSION_TOKEN="DesenrolaBateEJogaDeLadinhoSeuHackudoDosInfernossssss#443343434343434"
 
 
+username=stenio.junior
+password=PegaMinhaSenhabb
+
+usuario=usuario.usuario
+senha=essaehminhasenha
